@@ -1,0 +1,16 @@
+<svg width="47" height="30" viewBox="0 0 47 30" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="Frame 1000004520">
+        <rect id="Rectangle 3" y="5" width="19" height="4" rx="1" fill="white"/>
+        <rect id="Rectangle 5" y="21" width="19" height="4" rx="1" fill="white"/>
+        <g id="Group 2139">
+            <rect id="Rectangle 23905" width="6" height="17.0579" rx="1" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 44.3276 7.24264)" fill="white" fill-opacity="0.4"/>
+            <rect id="Rectangle 23906" x="44.3276" y="22.8047" width="6" height="16.9373" rx="1" transform="rotate(134.184 44.3276 22.8047)" fill="white" fill-opacity="0.4"/>
+        </g>
+        <rect id="Rectangle 4" y="12" width="29" height="6" rx="1" fill="white"/>
+        <g id="Group 2138">
+            <rect id="Rectangle 23905_2" x="21" y="7.24264" width="6" height="17.0579" rx="1" transform="rotate(-45 21 7.24264)" fill="white"/>
+            <rect id="Rectangle 23906_2" width="6" height="16.9373" rx="1" transform="matrix(0.696962 0.717108 0.717108 -0.696962 21 22.8047)" fill="white"/>
+        </g>
+    </g>
+</svg>
